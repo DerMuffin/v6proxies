@@ -10,7 +10,7 @@ echo "==========================================="
 # install depend
 echo "=========== Install Depend ================="
 
-apt install build-essential vim git wget htop curl python3.6 python3.6-dev python3.6-venv python3-pip -y
+apt install build-essential vim git wget htop curl python3.10 python3.10-dev python3.10-venv python3.10-pip -y
 pip3 install pip --upgrade
 
 
